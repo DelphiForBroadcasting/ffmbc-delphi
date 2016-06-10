@@ -1,0 +1,1 @@
+./configure --prefix="/home/alex/build" --enable-gpl --pkg-config=pkg-config --disable-doc --enable-postproc --enable-runtime-cpudetect --enable-w32threads --disable-hwaccels --enable-cross-compile --cc=i686-w64-mingw32-gcc --cross-prefix=i686-w64-mingw32- --arch=i686 --target-os=mingw32 --disable-static --enable-shared --disable-indev=dshow --disable-dxva2 --enable-memalign-hack
